@@ -87,4 +87,7 @@ Retail-Analytics-SQL
     └── sales.csv
 
 ## Author
-datawithrajat  
+datawithrajat 
+
+## License
+This project is licensed under the MIT License.

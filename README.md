@@ -88,5 +88,3 @@ Retail-Analytics-SQL
 
 ## Author
 datawithrajat  
-Data Analytics Learner  
-SQL | Excel | Power BI | Python
